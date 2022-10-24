@@ -34,6 +34,7 @@ module.exports = {
         240: '240px',
         256: '256px',
         327: '327px',
+        900: '900px',
       },
       height: {
         300: '300px',
@@ -62,6 +63,7 @@ module.exports = {
       md: { max: '990px' },
       sm: { max: '600px' },
       xs: { max: '400px' },
+      minM: { min: '990px' },
       minmd: '1700px',
       minlg: '2100px',
     },
