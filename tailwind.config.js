@@ -39,6 +39,7 @@ module.exports = {
       height: {
         300: '300px',
         557: '557px',
+        'height-fc': 'fit-content',
       },
       inset: {
         45: '45%',
