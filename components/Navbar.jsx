@@ -111,7 +111,7 @@ const Navbar = () => {
             width={20}
             height={20}
             alt="menu"
-            className={theme === 'light' && 'filter invert'}
+            className={theme === 'light' ? 'filter invert' : ''}
           />
         )}
 
